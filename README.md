@@ -108,3 +108,7 @@ src/main/java/com/bank
 📄 License
 
 This project is licensed under the MIT License.
+
+⚠️ Note: The H2 console is enabled only for local development and testing purposes.
+In a production environment, this endpoint should be disabled or properly secured.
+
