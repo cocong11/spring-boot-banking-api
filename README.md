@@ -93,6 +93,7 @@ Suggested Testing Flow
 ---
 
 📂 Project Structure
+```graphql
 src/main/java/com/bank
 ├── auth          # Authentication controllers and DTOs
 ├── controller    # REST controllers
@@ -101,7 +102,7 @@ src/main/java/com/bank
 ├── user          # User entity and repository
 ├── transaction   # Transaction entity and history
 ├── exception     # Global exception handling
-
+```
 ---
 
 📄 License
