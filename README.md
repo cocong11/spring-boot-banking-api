@@ -75,6 +75,7 @@ The application will start at:
 http://localhost:8080
 
 ---
+
 🧪 Testing the API
 
 The API can be tested using Insomnia or Postman.
@@ -88,6 +89,7 @@ Suggested Testing Flow
 3.Use the token to access protected endpoints
 
 4.Perform deposit, withdrawal, transfer, and transaction queries
+
 ---
 
 📂 Project Structure
@@ -99,6 +101,7 @@ src/main/java/com/bank
 ├── user          # User entity and repository
 ├── transaction   # Transaction entity and history
 ├── exception     # Global exception handling
+
 ---
 
 📄 License
